@@ -1,10 +1,3 @@
-"""
-DSC 20 Project
-Name(s): Catherine He
-PID(s):  A18278538
-Sources: Lecture
-"""
-
 import numpy as np
 import os
 from PIL import Image
