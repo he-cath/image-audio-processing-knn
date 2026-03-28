@@ -1,7 +1,3 @@
-"""
-Provided by course instructor
-"""
-
 import tkinter as tk
 from PIL import Image, ImageTk
 
