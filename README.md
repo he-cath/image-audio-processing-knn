@@ -2,7 +2,7 @@
 
 This project implements a multimedia processing system in Python, including image processing, audio manipulation, and a K-Nearest Neighbors (KNN) classifier for image classification. It also includes an interactive image viewer for visualization.
 
-## 🚀 Features
+##  Features
 
 ### Image Processing
 - RGB image abstraction with validation and deep copy support
@@ -33,7 +33,7 @@ This project implements a multimedia processing system in Python, including imag
 
 ---
 
-## 🧠 Key Concepts Demonstrated
+## Key Concepts Demonstrated
 - Object-Oriented Programming (OOP)
 - Data structures and abstraction design
 - Image and signal processing
@@ -43,6 +43,6 @@ This project implements a multimedia processing system in Python, including imag
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 - project.py # Core implementation (image, audio, KNN)
 - image_viewer.py # Interactive image viewer (Tkinter GUI)
