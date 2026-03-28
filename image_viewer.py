@@ -1,5 +1,5 @@
 """
-Courtesy of ChatGPT
+Provided by course instructor
 """
 
 import tkinter as tk
