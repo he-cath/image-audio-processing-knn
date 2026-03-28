@@ -1,4 +1,3 @@
-# Completed for Programming and Basic Data Structures for Data Science Course @ UC San Diego
 import numpy as np
 import os
 from PIL import Image
