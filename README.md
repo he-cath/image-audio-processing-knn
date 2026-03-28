@@ -1,6 +1,7 @@
 # image-audio-processing-knn
 
-This project implements a multimedia processing system in Python, including image processing, audio manipulation, and a K-Nearest Neighbors (KNN) classifier for image classification. It also includes an interactive image viewer for visualization.
+This project implements a multimedia processing system in Python, including image processing, audio manipulation, and a K-Nearest Neighbors (KNN) classifier for image classification. It also includes an interactive image viewer for visualization. Completed for Programming and Basic Data Structures for Data Science Course @ UC San Diego
+
 
 ##  Features
 
