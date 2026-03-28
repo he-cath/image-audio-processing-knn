@@ -25,12 +25,11 @@ This project implements a multimedia processing system in Python, including imag
 - Implemented a **K-Nearest Neighbors classifier from scratch**
 - Custom Euclidean distance over RGB pixel values
 - Majority voting for prediction
-- Supports training on labeled image datasets :contentReference[oaicite:0]{index=0}  
-
+- Supports training on labeled image datasets
 ### Interactive Image Viewer
 - Zoom and pan functionality
 - Real-time pixel color inspection on hover
-- Built using Tkinter for visualization :contentReference[oaicite:1]{index=1}  
+- Built using Tkinter for visualization
 
 ---
 
@@ -45,5 +44,5 @@ This project implements a multimedia processing system in Python, including imag
 ---
 
 ## 📁 Project Structure
-project.py # Core implementation (image, audio, KNN)
-image_viewer.py # Interactive image viewer (Tkinter GUI)
+- project.py # Core implementation (image, audio, KNN)
+- image_viewer.py # Interactive image viewer (Tkinter GUI)
