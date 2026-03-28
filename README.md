@@ -31,7 +31,7 @@ This project implements a multimedia processing system in Python, including imag
 - Real-time pixel color inspection on hover
 - Built using Tkinter for visualization
 
----
+
 
 ## Key Concepts Demonstrated
 - Object-Oriented Programming (OOP)
@@ -41,7 +41,7 @@ This project implements a multimedia processing system in Python, including imag
 - Algorithm implementation from scratch
 - GUI development with Tkinter
 
----
+
 
 ## Project Structure
 - project.py # Core implementation (image, audio, KNN)
